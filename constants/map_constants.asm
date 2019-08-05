@@ -287,7 +287,7 @@ ENDM
 
 	newgroup                                                      ; 13
 
-	map_const ROUTE_1,                                     10, 18 ;  1
+	map_const ROUTE_1,                                     10, 22 ;  1
 	map_const PALLET_TOWN,                                 10,  9 ;  2
 	map_const REDS_HOUSE_1F,                                4,  4 ;  3
 	map_const REDS_HOUSE_2F,                                4,  4 ;  4
@@ -491,3 +491,7 @@ ENDM
 	map_const ROUTE_30_BERRY_HOUSE,                         4,  4 ;  9
 	map_const MR_POKEMONS_HOUSE,                            4,  4 ; 10
 	map_const ROUTE_31_VIOLET_GATE,                         5,  4 ; 11
+	
+	newgroup ; 27
+	
+	map_const PAPRIKI_TOWN, 10, 9

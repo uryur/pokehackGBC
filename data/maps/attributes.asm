@@ -244,9 +244,8 @@ ENDM
 	map_attributes Route22, ROUTE_22, $2c, EAST
 	connection east, ViridianCity, VIRIDIAN_CITY, -4
 
-	map_attributes Route1, ROUTE_1, $0f, NORTH | SOUTH
-	connection north, ViridianCity, VIRIDIAN_CITY, -10
-	connection south, PalletTown, PALLET_TOWN, 0
+	map_attributes Route1, ROUTE_1, $05, SOUTH
+	connection south, PaprikiTown, PAPRIKI_TOWN, 1
 
 	map_attributes PalletTown, PALLET_TOWN, $0f, NORTH | SOUTH
 	connection north, Route1, ROUTE_1, 0
@@ -694,3 +693,6 @@ ENDM
 	map_attributes Route30BerryHouse, ROUTE_30_BERRY_HOUSE, $00, 0
 	map_attributes MrPokemonsHouse, MR_POKEMONS_HOUSE, $00, 0
 	map_attributes Route31VioletGate, ROUTE_31_VIOLET_GATE, $00, 0
+	
+	map_attributes PaprikiTown, PAPRIKI_TOWN, $05, NORTH
+	connection north, Route1, ROUTE_1, -1
