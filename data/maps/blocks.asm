@@ -1050,3 +1050,6 @@ SECTION "Map Blocks 4", ROMX
 
 PaprikiTown_Blocks:
 	INCBIN "maps/PaprikiTown.blk"
+	
+JokullStudio_Blocks
+    INCBIN "maps/JokullStudio.blk"

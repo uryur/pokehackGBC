@@ -47,10 +47,11 @@ PaprikiTown_MapEvents:
 	db 0, 0 ; filler
 
 	db 4 ; warp events
-	warp_event 14,  5, ELMS_LAB, 1
+	warp_event 14,  5, JOKULL_STUDIO, 1
 	warp_event  1,  5, PLAYERS_HOUSE_1F, 1
 	warp_event  3, 15, PLAYERS_NEIGHBORS_HOUSE, 1
 	warp_event 13, 11, ELMS_HOUSE, 1
+	
 	db 0 ; coord events
 
 	db 3 ; bg events
@@ -59,4 +60,4 @@ PaprikiTown_MapEvents:
 	bg_event  7, 11, BGEVENT_READ, PaprikiTownSign
 	
 	db 1 ; object events
-    object_event 9,  8, SPRITE_FISHER, SPRITEMOVEDATA_WALK_UP_DOWN, 0, 1, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_SCRIPT, 0, PaprikiFisherScript, -1
+    object_event 9,  8, SPRITE_FISHER, SPRITEMOVEDATA_WALK_UP_DOWN, 0, 0, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_SCRIPT, 0, PaprikiFisherScript, -1

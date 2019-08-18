@@ -495,3 +495,4 @@ ENDM
 	newgroup ; 27
 	
 	map_const PAPRIKI_TOWN, 10, 9
+	map_const JOKULL_STUDIO, 5, 5
