@@ -1,24 +1,24 @@
 BitmasksPointers:
-	dw BulbasaurBitmasks
-	dw IvysaurBitmasks
-	dw VenusaurBitmasks
-	dw CharmanderBitmasks
-	dw CharmeleonBitmasks
-	dw CharizardBitmasks
-	dw SquirtleBitmasks
-	dw WartortleBitmasks
-	dw BlastoiseBitmasks
-	dw CaterpieBitmasks
-	dw MetapodBitmasks
-	dw ButterfreeBitmasks
-	dw WeedleBitmasks
-	dw KakunaBitmasks
-	dw BeedrillBitmasks
-	dw PidgeyBitmasks
-	dw PidgeottoBitmasks
-	dw PidgeotBitmasks
-	dw RattataBitmasks
-	dw RaticateBitmasks
+	dw RookowlBitmasks
+	dw TwistowlBitmasks
+	dw StrigaleBitmasks
+	dw GlasnowBitmasks
+	dw GlasleetBitmasks
+	dw BellebudBitmasks
+	dw BellebeauBitmasks
+	dw BellebloomBitmasks
+	dw ProcyuxBitmasks
+	dw DuracyonBitmasks
+	dw GillucidBitmasks
+	dw SerpimentBitmasks
+	dw PumeowBitmasks
+	dw TabbeowBitmasks
+	dw PhantherBitmasks
+	dw CaverthBitmasks
+	dw LionerthBitmasks
+	dw AlcalfBitmasks
+	dw CardinelkBitmasks
+	dw ShimooseBitmasks
 	dw SpearowBitmasks
 	dw FearowBitmasks
 	dw EkansBitmasks

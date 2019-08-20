@@ -1,26 +1,26 @@
 ; Evolutions and attacks are grouped together since they're both checked at level-up.
 
 EvosAttacksPointers::
-	dw BulbasaurEvosAttacks
-	dw IvysaurEvosAttacks
-	dw VenusaurEvosAttacks
-	dw CharmanderEvosAttacks
-	dw CharmeleonEvosAttacks
-	dw CharizardEvosAttacks
-	dw SquirtleEvosAttacks
-	dw WartortleEvosAttacks
-	dw BlastoiseEvosAttacks
-	dw CaterpieEvosAttacks
-	dw MetapodEvosAttacks
-	dw ButterfreeEvosAttacks
-	dw WeedleEvosAttacks
-	dw KakunaEvosAttacks
-	dw BeedrillEvosAttacks
-	dw PidgeyEvosAttacks
-	dw PidgeottoEvosAttacks
-	dw PidgeotEvosAttacks
-	dw RattataEvosAttacks
-	dw RaticateEvosAttacks
+	dw RookowlEvosAttacks
+	dw TwistowlEvosAttacks
+	dw StrigaleEvosAttacks
+	dw GlasnowEvosAttacks
+	dw GlasleetEvosAttacks
+	dw BellebudEvosAttacks
+	dw BellebeauEvosAttacks
+	dw BellebloomEvosAttacks
+	dw ProcyuxEvosAttacks
+	dw DuracyonEvosAttacks
+	dw GillucidEvosAttacks
+	dw SerpimentEvosAttacks
+	dw PumeowEvosAttacks
+	dw TabbeowEvosAttacks
+	dw PhantherEvosAttacks
+	dw CaverthEvosAttacks
+	dw LionerthEvosAttacks
+	dw AlcalfEvosAttacks
+	dw CardinelkEvosAttacks
+	dw ShimooseEvosAttacks
 	dw SpearowEvosAttacks
 	dw FearowEvosAttacks
 	dw EkansEvosAttacks

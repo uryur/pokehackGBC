@@ -1,24 +1,24 @@
 AnimationPointers:
-	dw BulbasaurAnimation
-	dw IvysaurAnimation
-	dw VenusaurAnimation
-	dw CharmanderAnimation
-	dw CharmeleonAnimation
-	dw CharizardAnimation
-	dw SquirtleAnimation
-	dw WartortleAnimation
-	dw BlastoiseAnimation
-	dw CaterpieAnimation
-	dw MetapodAnimation
-	dw ButterfreeAnimation
-	dw WeedleAnimation
-	dw KakunaAnimation
-	dw BeedrillAnimation
-	dw PidgeyAnimation
-	dw PidgeottoAnimation
-	dw PidgeotAnimation
-	dw RattataAnimation
-	dw RaticateAnimation
+	dw RookowlAnimation
+	dw TwistowlAnimation
+	dw StrigaleAnimation
+	dw GlasnowAnimation
+	dw GlasleetAnimation
+	dw BellebudAnimation
+	dw BellebeauAnimation
+	dw BellebloomAnimation
+	dw ProcyuxAnimation
+	dw DuracyonAnimation
+	dw GillucidAnimation
+	dw SerpimentAnimation
+	dw PumeowAnimation
+	dw TabbeowAnimation
+	dw PhantherAnimation
+	dw CaverthAnimation
+	dw LionerthAnimation
+	dw AlcalfAnimation
+	dw CardinelkAnimation
+	dw ShimooseAnimation
 	dw SpearowAnimation
 	dw FearowAnimation
 	dw EkansAnimation

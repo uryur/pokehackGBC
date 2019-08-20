@@ -1,24 +1,24 @@
 FramesPointers:
-	dw BulbasaurFrames
-	dw IvysaurFrames
-	dw VenusaurFrames
-	dw CharmanderFrames
-	dw CharmeleonFrames
-	dw CharizardFrames
-	dw SquirtleFrames
-	dw WartortleFrames
-	dw BlastoiseFrames
-	dw CaterpieFrames
-	dw MetapodFrames
-	dw ButterfreeFrames
-	dw WeedleFrames
-	dw KakunaFrames
-	dw BeedrillFrames
-	dw PidgeyFrames
-	dw PidgeottoFrames
-	dw PidgeotFrames
-	dw RattataFrames
-	dw RaticateFrames
+	dw RookowlFrames
+	dw TwistowlFrames
+	dw StrigaleFrames
+	dw GlasnowFrames
+	dw GlasleetFrames
+	dw BellebudFrames
+	dw BellebeauFrames
+	dw BellebloomFrames
+	dw ProcyuxFrames
+	dw DuracyonFrames
+	dw GillucidFrames
+	dw SerpimentFrames
+	dw PumeowFrames
+	dw TabbeowFrames
+	dw PhantherFrames
+	dw CaverthFrames
+	dw LionerthFrames
+	dw AlcalfFrames
+	dw CardinelkFrames
+	dw ShimooseFrames
 	dw SpearowFrames
 	dw FearowFrames
 	dw EkansFrames

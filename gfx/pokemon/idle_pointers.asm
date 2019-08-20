@@ -1,24 +1,24 @@
 AnimationIdlePointers:
-	dw BulbasaurAnimationIdle
-	dw IvysaurAnimationIdle
-	dw VenusaurAnimationIdle
-	dw CharmanderAnimationIdle
-	dw CharmeleonAnimationIdle
-	dw CharizardAnimationIdle
-	dw SquirtleAnimationIdle
-	dw WartortleAnimationIdle
-	dw BlastoiseAnimationIdle
-	dw CaterpieAnimationIdle
-	dw MetapodAnimationIdle
-	dw ButterfreeAnimationIdle
-	dw WeedleAnimationIdle
-	dw KakunaAnimationIdle
-	dw BeedrillAnimationIdle
-	dw PidgeyAnimationIdle
-	dw PidgeottoAnimationIdle
-	dw PidgeotAnimationIdle
-	dw RattataAnimationIdle
-	dw RaticateAnimationIdle
+	dw RookowlAnimationIdle
+	dw TwistowlAnimationIdle
+	dw StrigaleAnimationIdle
+	dw GlasnowAnimationIdle
+	dw GlasleetAnimationIdle
+	dw BellebudAnimationIdle
+	dw BellebeauAnimationIdle
+	dw BellebloomAnimationIdle
+	dw ProcyuxAnimationIdle
+	dw DuracyonAnimationIdle
+	dw GillucidAnimationIdle
+	dw SerpimentAnimationIdle
+	dw PumeowAnimationIdle
+	dw TabbeowAnimationIdle
+	dw PhantherAnimationIdle
+	dw CaverthAnimationIdle
+	dw LionerthAnimationIdle
+	dw AlcalfAnimationIdle
+	dw CardinelkAnimationIdle
+	dw ShimooseAnimationIdle
 	dw SpearowAnimationIdle
 	dw FearowAnimationIdle
 	dw EkansAnimationIdle

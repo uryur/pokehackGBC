@@ -12,19 +12,11 @@ AlphabeticalPokedexOrder:
 	db ARTICUNO
 	db AZUMARILL
 	db BAYLEEF
-	db BEEDRILL
 	db BELLOSSOM
 	db BELLSPROUT
-	db BLASTOISE
 	db BLISSEY
-	db BULBASAUR
-	db BUTTERFREE
-	db CATERPIE
 	db CELEBI
 	db CHANSEY
-	db CHARIZARD
-	db CHARMANDER
-	db CHARMELEON
 	db CHIKORITA
 	db CHINCHOU
 	db CLEFABLE
@@ -93,7 +85,6 @@ AlphabeticalPokedexOrder:
 	db HOUNDOUR
 	db HYPNO
 	db IGGLYBUFF
-	db IVYSAUR
 	db JIGGLYPUFF
 	db JOLTEON
 	db JUMPLUFF
@@ -101,7 +92,6 @@ AlphabeticalPokedexOrder:
 	db KABUTO
 	db KABUTOPS
 	db KADABRA
-	db KAKUNA
 	db KANGASKHAN
 	db KINGDRA
 	db KINGLER
@@ -130,7 +120,6 @@ AlphabeticalPokedexOrder:
 	db MAROWAK
 	db MEGANIUM
 	db MEOWTH
-	db METAPOD
 	db MEW
 	db MEWTWO
 	db MILTANK
@@ -158,9 +147,6 @@ AlphabeticalPokedexOrder:
 	db PERSIAN
 	db PHANPY
 	db PICHU
-	db PIDGEOT
-	db PIDGEOTTO
-	db PIDGEY
 	db PIKACHU
 	db PILOSWINE
 	db PINECO
@@ -181,8 +167,6 @@ AlphabeticalPokedexOrder:
 	db RAICHU
 	db RAIKOU
 	db RAPIDASH
-	db RATICATE
-	db RATTATA
 	db REMORAID
 	db RHYDON
 	db RHYHORN
@@ -209,7 +193,6 @@ AlphabeticalPokedexOrder:
 	db SNUBBULL
 	db SPEAROW
 	db SPINARAK
-	db SQUIRTLE
 	db STANTLER
 	db STARMIE
 	db STARYU
@@ -236,13 +219,10 @@ AlphabeticalPokedexOrder:
 	db VAPOREON
 	db VENOMOTH
 	db VENONAT
-	db VENUSAUR
 	db VICTREEBEL
 	db VILEPLUME
 	db VOLTORB
 	db VULPIX
-	db WARTORTLE
-	db WEEDLE
 	db WEEPINBELL
 	db WEEZING
 	db WIGGLYTUFF
@@ -252,3 +232,23 @@ AlphabeticalPokedexOrder:
 	db YANMA
 	db ZAPDOS
 	db ZUBAT
+	db ROOKOWL
+	db TWISTOWL
+	db STRIGALE
+	db GLASNOW
+	db GLASLEET
+	db BELLEBUD
+	db BELLEBEAU
+	db BELLEBLOOM
+	db PROCYUX
+	db DURACYON
+	db GILLUCID
+	db SERPIMENT
+	db PUMEOW
+	db TABBEOW
+	db PHANTHER
+	db CAVERTH
+	db LIONERTH
+	db ALCALF
+	db CARDINELK
+	db SHIMOOSE

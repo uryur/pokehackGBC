@@ -2066,7 +2066,7 @@ BattleTowerMons4:
 	bigdw 88 ; SDef
 	db "OMUSUTA-@@@"
 
-	db CHARIZARD
+	db SHIMOOSE
 	db KINGS_ROCK
 	db FIRE_SPIN, DRAGON_RAGE, FLY, SLASH
 	dw 0 ; OT ID
@@ -3164,7 +3164,7 @@ BattleTowerMons6:
 	bigdw 165 ; SDef
 	db "RU-ZIyuRA@@"
 
-	db BLASTOISE
+	db SERPIMENT
 	db GOLD_BERRY
 	db SURF, EARTHQUAKE, RAPID_SPIN, BLIZZARD
 	dw 0 ; OT ID
@@ -3765,7 +3765,7 @@ BattleTowerMons7:
 	bigdw 186 ; SDef
 	db "HERAKUROSU@"
 
-	db VENUSAUR
+	db STRIGALE
 	db BRIGHTPOWDER
 	db SUNNY_DAY, SOLARBEAM, SYNTHESIS, HYPER_BEAM
 	dw 0 ; OT ID
@@ -3791,7 +3791,7 @@ BattleTowerMons7:
 	bigdw 180 ; SDef
 	db "HUSIGIBANA@"
 
-	db CHARIZARD
+	db SHIMOOSE
 	db SCOPE_LENS
 	db SLASH, EARTHQUAKE, HYPER_BEAM, FLAMETHROWER
 	dw 0 ; OT ID
@@ -3817,7 +3817,7 @@ BattleTowerMons7:
 	bigdw 159 ; SDef
 	db "RIZA-DON@@@"
 
-	db BLASTOISE
+	db SERPIMENT
 	db QUICK_CLAW
 	db HYDRO_PUMP, ICE_PUNCH, HYPER_BEAM, IRON_TAIL
 	dw 0 ; OT ID
@@ -5100,7 +5100,7 @@ BattleTowerMons10:
 	bigdw 250 ; SDef
 	db "UINDEi@@@@@"
 
-	db CHARIZARD
+	db SHIMOOSE
 	db SCOPE_LENS
 	db FLAMETHROWER, EARTHQUAKE, SLASH, FLY
 	dw 0 ; OT ID

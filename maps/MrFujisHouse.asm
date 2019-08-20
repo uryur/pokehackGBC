@@ -35,7 +35,7 @@ MrFujisNidorino:
 MrFujisPidgey:
 	opentext
 	writetext MrFujisPidgeyText
-	cry PIDGEY
+	cry ROOKOWL
 	waitbutton
 	closetext
 	end

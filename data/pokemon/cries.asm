@@ -5,26 +5,26 @@ ENDM
 
 PokemonCries::
 ; entries correspond to constants/pokemon_constants.asm
-	mon_cry CRY_BULBASAUR,   $080,  $081 ; BULBASAUR
-	mon_cry CRY_BULBASAUR,   $020,  $100 ; IVYSAUR
-	mon_cry CRY_BULBASAUR,   $000,  $140 ; VENUSAUR
-	mon_cry CRY_CHARMANDER,  $060,  $0c0 ; CHARMANDER
-	mon_cry CRY_CHARMANDER,  $020,  $0c0 ; CHARMELEON
-	mon_cry CRY_CHARMANDER,  $000,  $100 ; CHARIZARD
-	mon_cry CRY_SQUIRTLE,    $060,  $0c0 ; SQUIRTLE
-	mon_cry CRY_SQUIRTLE,    $020,  $0c0 ; WARTORTLE
-	mon_cry CRY_BLASTOISE,   $000,  $100 ; BLASTOISE
-	mon_cry CRY_CATERPIE,    $080,  $0a0 ; CATERPIE
-	mon_cry CRY_METAPOD,     $0cc,  $081 ; METAPOD
-	mon_cry CRY_CATERPIE,    $077,  $0c0 ; BUTTERFREE
-	mon_cry CRY_WEEDLE,      $0ee,  $081 ; WEEDLE
-	mon_cry CRY_BLASTOISE,   $0ff,  $081 ; KAKUNA
-	mon_cry CRY_BLASTOISE,   $060,  $100 ; BEEDRILL
-	mon_cry CRY_PIDGEY,      $0df,  $084 ; PIDGEY
-	mon_cry CRY_PIDGEOTTO,   $028,  $140 ; PIDGEOTTO
-	mon_cry CRY_PIDGEOTTO,   $011,  $17f ; PIDGEOT
-	mon_cry CRY_RATTATA,     $000,  $100 ; RATTATA
-	mon_cry CRY_RATTATA,     $020,  $17f ; RATICATE
+	mon_cry CRY_BULBASAUR,   $080,  $081 ; ROOKOWL
+	mon_cry CRY_BULBASAUR,   $020,  $100 ; TWISTOWL
+	mon_cry CRY_BULBASAUR,   $000,  $140 ; STRIGALE
+	mon_cry CRY_CHARMANDER,  $060,  $0c0 ; GLASNOW
+	mon_cry CRY_CHARMANDER,  $020,  $0c0 ; GLASLEET
+	mon_cry CRY_SQUIRTLE,    $060,  $0c0 ; BELLEBUD
+	mon_cry CRY_SQUIRTLE,    $020,  $0c0 ; BELLEBEAU
+	mon_cry CRY_BLASTOISE,   $000,  $100 ; BELLEBLOOM
+	mon_cry CRY_CATERPIE,    $000,  $100 ; PROCYUX
+	mon_cry CRY_METAPOD,     $080,  $0a0 ; DURACYON
+	mon_cry CRY_WEEDLE,      $0cc,  $081 ; GILLUCID
+	mon_cry CRY_WEEDLE,      $077,  $0c0 ; SERPIMENT
+	mon_cry CRY_PIDGEY,      $0ee,  $081 ; PUMEOW
+	mon_cry CRY_PIDGEY,      $0ff,  $081 ; TABBEOW
+	mon_cry CRY_PIDGEY,      $060,  $100 ; PHANTHER
+	mon_cry CRY_PIDGEOTTO,   $0df,  $084 ; CAVERTH
+	mon_cry CRY_PIDGEOTTO,   $028,  $140 ; LIONERTH
+	mon_cry CRY_RATTATA,     $000,  $0c0 ; ALCALF
+	mon_cry CRY_RATTATA,     $000,  $100 ; CARDINELK
+	mon_cry CRY_RATTATA,     $011,  $17f ; SHIMOOSE
 	mon_cry CRY_SPEAROW,     $000,  $100 ; SPEAROW
 	mon_cry CRY_FEAROW,      $040,  $120 ; FEAROW
 	mon_cry CRY_EKANS,       $012,  $0c0 ; EKANS

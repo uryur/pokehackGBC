@@ -26,7 +26,7 @@ Speary:
 Rattey:
 	opentext
 	writetext RatteyText
-	cry RATTATA
+	cry GLASNOW
 	waitbutton
 	closetext
 	end

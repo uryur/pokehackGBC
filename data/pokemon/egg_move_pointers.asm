@@ -1,23 +1,23 @@
 EggMovePointers::
-	dw BulbasaurEggMoves
+	dw RookowlEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw CharmanderEggMoves
+	dw GlasnowEggMoves
+	dw NoEggMoves
+	dw BellebudEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw SquirtleEggMoves
+	dw ProcyuxEggMoves
+	dw NoEggMoves
+	dw GillucidEggMoves
+	dw NoEggMoves
+	dw PumeowEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
+	dw CaverthEggMoves
 	dw NoEggMoves
+	dw AlcalfEggMoves
 	dw NoEggMoves
-	dw NoEggMoves
-	dw NoEggMoves
-	dw NoEggMoves
-	dw NoEggMoves
-	dw PidgeyEggMoves
-	dw NoEggMoves
-	dw NoEggMoves
-	dw RattataEggMoves
 	dw NoEggMoves
 	dw SpearowEggMoves
 	dw NoEggMoves

@@ -12,46 +12,46 @@ PokemonPalettes:
 	RGB 30, 22, 17
 	RGB 16, 14, 19
 
-INCBIN "gfx/pokemon/bulbasaur/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/ivysaur/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/ivysaur/shiny.pal"
-INCBIN "gfx/pokemon/venusaur/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/venusaur/shiny.pal"
-INCBIN "gfx/pokemon/charmander/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/charmander/shiny.pal"
-INCBIN "gfx/pokemon/charmeleon/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/charmeleon/shiny.pal"
-INCBIN "gfx/pokemon/charizard/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/charizard/shiny.pal"
-INCBIN "gfx/pokemon/squirtle/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/squirtle/shiny.pal"
-INCBIN "gfx/pokemon/wartortle/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/wartortle/shiny.pal"
-INCBIN "gfx/pokemon/blastoise/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/blastoise/shiny.pal"
-INCBIN "gfx/pokemon/caterpie/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/caterpie/shiny.pal"
-INCBIN "gfx/pokemon/metapod/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/metapod/shiny.pal"
-INCBIN "gfx/pokemon/butterfree/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/butterfree/shiny.pal"
-INCBIN "gfx/pokemon/weedle/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/weedle/shiny.pal"
-INCBIN "gfx/pokemon/kakuna/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/kakuna/shiny.pal"
-INCBIN "gfx/pokemon/beedrill/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/beedrill/shiny.pal"
-INCBIN "gfx/pokemon/pidgey/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/pidgey/shiny.pal"
-INCBIN "gfx/pokemon/pidgeotto/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/pidgeotto/shiny.pal"
-INCBIN "gfx/pokemon/pidgeot/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/pidgeot/shiny.pal"
-INCBIN "gfx/pokemon/rattata/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/rattata/shiny.pal"
-INCBIN "gfx/pokemon/raticate/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/raticate/shiny.pal"
+INCBIN "gfx/pokemon/rookowl/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/rookowl/shiny.pal"
+INCBIN "gfx/pokemon/twistowl/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/twistowl/shiny.pal"
+INCBIN "gfx/pokemon/strigale/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/strigale/shiny.pal"
+INCBIN "gfx/pokemon/glasnow/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/glasnow/shiny.pal"
+INCBIN "gfx/pokemon/glasleet/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/glasleet/shiny.pal"
+INCBIN "gfx/pokemon/bellebud/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/bellebud/shiny.pal"
+INCBIN "gfx/pokemon/bellebeau/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/bellebeau/shiny.pal"
+INCBIN "gfx/pokemon/bellebloom/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/bellebloom/shiny.pal"
+INCBIN "gfx/pokemon/procyux/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/procyux/shiny.pal"
+INCBIN "gfx/pokemon/duracyon/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/duracyon/shiny.pal"
+INCBIN "gfx/pokemon/gillucid/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/gillucid/shiny.pal"
+INCBIN "gfx/pokemon/serpiment/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/serpiment/shiny.pal"
+INCBIN "gfx/pokemon/pumeow/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/pumeow/shiny.pal"
+INCBIN "gfx/pokemon/tabbeow/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/tabbeow/shiny.pal"
+INCBIN "gfx/pokemon/phanther/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/phanther/shiny.pal"
+INCBIN "gfx/pokemon/caverth/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/caverth/shiny.pal"
+INCBIN "gfx/pokemon/lionerth/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/lionerth/shiny.pal"
+INCBIN "gfx/pokemon/alcalf/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/alcalf/shiny.pal"
+INCBIN "gfx/pokemon/cardinelk/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/cardinelk/shiny.pal"
+INCBIN "gfx/pokemon/shimoose/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/shimoose/shiny.pal"
 INCBIN "gfx/pokemon/spearow/front.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/spearow/shiny.pal"
 INCBIN "gfx/pokemon/fearow/front.gbcpal", middle_colors
