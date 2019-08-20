@@ -49,7 +49,6 @@
 	const DARK_CAVE         ; 2c
 	const ROUTE_46          ; 2d
 	const SILVER_CAVE       ; 2e
-	const PAPRIKI_TOWN
 
 KANTO_LANDMARK EQU const_value
 	const PALLET_TOWN       ; 2f

@@ -906,7 +906,7 @@ SunStoneDesc:
 	next "kinds of #MON.@"
 
 PolkadotBowDesc:
-	db   "Powers up fairy-"
+	db   "Powers up normal-"
 	next "type moves. (HOLD)@"
 
 TeruSama22Desc:

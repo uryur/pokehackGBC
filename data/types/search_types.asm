@@ -17,4 +17,3 @@ PokedexTypeSearchConversionTable:
 	db DRAGON
 	db DARK
 	db STEEL
-	db FAIRY
