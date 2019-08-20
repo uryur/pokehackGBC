@@ -696,5 +696,3 @@ ENDM
 	
 	map_attributes PaprikiTown, PAPRIKI_TOWN, $05, NORTH
 	connection north, Route1, ROUTE_1, -1
-	
-	map_attributes JokullStudio, JOKULL_STUDIO, $00, 0
