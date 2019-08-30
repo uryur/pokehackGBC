@@ -2808,7 +2808,7 @@ LoadTownMapGFX:
 	ret
 
 JohtoMap:
-INCBIN "gfx/pokegear/johto.bin"
+INCBIN "gfx/pokegear/wance.bin"
 
 KantoMap:
 INCBIN "gfx/pokegear/kanto.bin"
