@@ -53,8 +53,6 @@ ArnieYanmaSwarm: ; start swarm
 	iftrue ArnieYanmaAlreadySwarming
 	setflag ENGINE_YANMA_SWARM
 	getmonname STRING_BUFFER_4, YANMA
-	swarm SWARM_YANMA, ROUTE_35
-	getlandmarkname STRING_BUFFER_5, ROUTE_35
 	farsjump UnknownScript_0xa05ce
 
 ArnieFoundRare:

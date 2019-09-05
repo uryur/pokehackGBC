@@ -179,11 +179,7 @@ SetBoxmonOrEggmonCaughtData:
 	ld b, a
 	ld a, [wMapNumber]
 	ld c, a
-	cp MAP_POKECENTER_2F
-	jr nz, .NotPokecenter2F
 	ld a, b
-	cp GROUP_POKECENTER_2F
-	jr nz, .NotPokecenter2F
 
 	ld a, [wBackupMapGroup]
 	ld b, a

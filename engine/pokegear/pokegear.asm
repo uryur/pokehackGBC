@@ -2286,12 +2286,10 @@ FlyMap:
 ; Note that .NoKanto should be modified in tandem with this branch
 	push af
 ; Start from New Bark Town
-	ld a, FLY_NEW_BARK
 	ld [wTownMapPlayerIconLandmark], a
 ; Flypoints begin at New Bark Town...
 	ld [wStartFlypoint], a
 ; ..and end at Silver Cave.
-	ld a, FLY_MT_SILVER
 	ld [wEndFlypoint], a
 ; Fill out the map
 	call FillJohtoMap
@@ -2317,10 +2315,8 @@ FlyMap:
 ; Kanto's map is only loaded if we've visited Indigo Plateau
 
 ; Flypoints begin at Pallet Town...
-	ld a, FLY_PALLET
 	ld [wStartFlypoint], a
 ; ...and end at Indigo Plateau
-	ld a, FLY_INDIGO
 	ld [wEndFlypoint], a
 ; Because Indigo Plateau is the first flypoint the player
 ; visits, it's made the default flypoint.
@@ -2336,12 +2332,10 @@ FlyMap:
 ; If Indigo Plateau hasn't been visited, we use Johto's map instead
 
 ; Start from New Bark Town
-	ld a, FLY_NEW_BARK
 	ld [wTownMapPlayerIconLandmark], a
 ; Flypoints begin at New Bark Town...
 	ld [wStartFlypoint], a
 ; ..and end at Silver Cave
-	ld a, FLY_MT_SILVER
 	ld [wEndFlypoint], a
 	call FillJohtoMap
 	pop af
@@ -2909,7 +2903,6 @@ Unreferenced_Function92311:
 .down_right
 	ld hl, wTownMapPlayerIconLandmark
 	ld a, [hl]
-	cp FLY_INDIGO
 	jr c, .okay_dr
 	ld [hl], -1
 .okay_dr
@@ -2921,7 +2914,7 @@ Unreferenced_Function92311:
 	ld a, [hl]
 	and a
 	jr nz, .okay_ul
-	ld [hl], FLY_INDIGO + 1
+	ld [hl], 1
 .okay_ul
 	dec [hl]
 .continue
