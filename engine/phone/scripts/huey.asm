@@ -15,7 +15,6 @@ HueyPhoneCalleeScript:
 	farsjump UnknownScript_0xa0908
 
 .WantsBattle:
-	getlandmarkname STRING_BUFFER_5, LIGHTHOUSE
 	farsjump HueyWantsBattleScript
 
 HueyPhoneCallerScript:
@@ -36,6 +35,5 @@ HueyWednesdayNight:
 	setflag ENGINE_HUEY_WEDNESDAY_NIGHT
 
 HueyWantsBattle:
-	getlandmarkname STRING_BUFFER_5, LIGHTHOUSE
 	setflag ENGINE_HUEY
 	farsjump PhoneScript_WantsToBattle_Male

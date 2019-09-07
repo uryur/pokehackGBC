@@ -6,7 +6,6 @@ BeverlyPhoneCalleeScript:
 	farsjump UnknownScript_0xa0900
 
 .HasNugget:
-	getlandmarkname STRING_BUFFER_5, NATIONAL_PARK
 	farsjump UnknownScript_0xa0aa5
 
 BeverlyPhoneCallerScript:
@@ -22,5 +21,4 @@ BeverlyPhoneCallerScript:
 
 .FoundNugget:
 	setflag ENGINE_BEVERLY_HAS_NUGGET
-	getlandmarkname STRING_BUFFER_5, NATIONAL_PARK
 	farsjump PhoneScript_FoundItem_Female

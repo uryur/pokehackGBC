@@ -14,7 +14,6 @@ BrentPhoneCalleeScript:
 	farsjump UnknownScript_0xa0998
 
 .WantsBattle:
-	getlandmarkname STRING_BUFFER_5, ROUTE_43
 	farsjump UnknownScript_0xa0a87
 
 BrentPhoneCallerScript:
@@ -36,7 +35,6 @@ BrentMondayMorning:
 	setflag ENGINE_BRENT_MONDAY_MORNING
 
 BrentWantsBattle:
-	getlandmarkname STRING_BUFFER_5, ROUTE_43
 	setflag ENGINE_BRENT
 	farsjump PhoneScript_WantsToBattle_Male
 

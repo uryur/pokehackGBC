@@ -16,11 +16,9 @@ ArniePhoneCalleeScript:
 	farsjump UnknownScript_0xa0968
 
 .WantsBattle:
-	getlandmarkname STRING_BUFFER_5, ROUTE_35
 	farsjump UnknownScript_0xa0a6e
 
 .AlreadySwarming:
-	getlandmarkname STRING_BUFFER_5, ROUTE_35
 	farsjump UnknownScript_0xa0aff
 
 ArniePhoneCallerScript:
@@ -44,7 +42,6 @@ ArnieTuesdayMorning:
 	setflag ENGINE_ARNIE_TUESDAY_MORNING
 
 ArnieWantsBattle:
-	getlandmarkname STRING_BUFFER_5, ROUTE_35
 	setflag ENGINE_ARNIE
 	farsjump PhoneScript_WantsToBattle_Male
 

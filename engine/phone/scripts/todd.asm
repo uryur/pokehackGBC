@@ -16,7 +16,6 @@ ToddPhoneCalleeScript:
 	farsjump UnknownScript_0xa0958
 
 .WantsBattle:
-	getlandmarkname STRING_BUFFER_5, ROUTE_34
 	farsjump UnknownScript_0xa0a64
 
 .SaleOn:
@@ -47,7 +46,6 @@ ToddSaturdayMorning:
 	setflag ENGINE_TODD_SATURDAY_MORNING
 
 ToddWantsBattle:
-	getlandmarkname STRING_BUFFER_5, ROUTE_34
 	setflag ENGINE_TODD
 	farsjump PhoneScript_WantsToBattle_Male
 

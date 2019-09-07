@@ -15,11 +15,9 @@ RalphPhoneCalleeScript:
 	farsjump UnknownScript_0xa0940
 
 .Rematch:
-	getlandmarkname STRING_BUFFER_5, ROUTE_32
 	farsjump UnknownScript_0xa0a55
 
 .ReportSwarm:
-	getlandmarkname STRING_BUFFER_5, ROUTE_32
 	farsjump UnknownScript_0xa0af5
 
 RalphPhoneCallerScript:
@@ -41,7 +39,6 @@ RalphPhoneCallerScript:
 Ralph_WednesdayMorning:
 	setflag ENGINE_RALPH_WEDNESDAY_MORNING
 Ralph_FightMe:
-	getlandmarkname STRING_BUFFER_5, ROUTE_32
 	setflag ENGINE_RALPH
 	farsjump PhoneScript_WantsToBattle_Male
 
@@ -50,7 +47,6 @@ Ralph_SetUpSwarm:
 	iftrue .Generic
 	setflag ENGINE_FISH_SWARM
 	getmonname STRING_BUFFER_4, QWILFISH
-	getlandmarkname STRING_BUFFER_5, ROUTE_32
 	setval FISHSWARM_QWILFISH
 	special ActivateFishingSwarm
 	farsjump UnknownScript_0xa05d6

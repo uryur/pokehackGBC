@@ -16,11 +16,9 @@ AnthonyPhoneCalleeScript:
 	farsjump UnknownScript_0xa0950
 
 .WantsBattle:
-	getlandmarkname STRING_BUFFER_5, ROUTE_33
 	farsjump UnknownScript_0xa0a5f
 
 .AlreadySwarming:
-	getlandmarkname STRING_BUFFER_5, ROUTE_33
 	farsjump UnknownScript_0xa0afa
 
 AnthonyPhoneCallerScript:
@@ -44,7 +42,6 @@ AnthonyFridayNight:
 	setflag ENGINE_ANTHONY_FRIDAY_NIGHT
 
 AnthonyWantsBattle:
-	getlandmarkname STRING_BUFFER_5, ROUTE_33
 	setflag ENGINE_ANTHONY
 	farsjump PhoneScript_WantsToBattle_Male
 
